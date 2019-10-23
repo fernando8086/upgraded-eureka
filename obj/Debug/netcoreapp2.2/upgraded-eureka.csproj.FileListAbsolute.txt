@@ -1,0 +1,14 @@
+C:\upgraded-eureka\bin\Debug\netcoreapp2.2\upgraded-eureka.deps.json
+C:\upgraded-eureka\bin\Debug\netcoreapp2.2\upgraded-eureka.runtimeconfig.json
+C:\upgraded-eureka\bin\Debug\netcoreapp2.2\upgraded-eureka.runtimeconfig.dev.json
+C:\upgraded-eureka\bin\Debug\netcoreapp2.2\upgraded-eureka.dll
+C:\upgraded-eureka\bin\Debug\netcoreapp2.2\upgraded-eureka.pdb
+C:\upgraded-eureka\obj\Debug\netcoreapp2.2\upgraded-eureka.csprojAssemblyReference.cache
+C:\upgraded-eureka\obj\Debug\netcoreapp2.2\upgraded-eureka.csproj.CoreCompileInputs.cache
+C:\upgraded-eureka\obj\Debug\netcoreapp2.2\upgraded-eureka.RazorAssemblyInfo.cache
+C:\upgraded-eureka\obj\Debug\netcoreapp2.2\upgraded-eureka.RazorAssemblyInfo.cs
+C:\upgraded-eureka\obj\Debug\netcoreapp2.2\upgraded-eureka.AssemblyInfoInputs.cache
+C:\upgraded-eureka\obj\Debug\netcoreapp2.2\upgraded-eureka.AssemblyInfo.cs
+C:\upgraded-eureka\obj\Debug\netcoreapp2.2\upgraded-eureka.RazorTargetAssemblyInfo.cache
+C:\upgraded-eureka\obj\Debug\netcoreapp2.2\upgraded-eureka.dll
+C:\upgraded-eureka\obj\Debug\netcoreapp2.2\upgraded-eureka.pdb
